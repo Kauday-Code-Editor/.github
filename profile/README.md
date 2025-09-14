@@ -125,16 +125,6 @@
 
 ---
 
-## 🤝 Community & Support
-
-<div align="center">
-
-[![Discord](https://img.shields.io/discord/YOUR_DISCORD_ID?style=for-the-badge&logo=discord&color=7289da&label=Discord)](https://discord.gg/kauday)
-[![Twitter](https://img.shields.io/twitter/follow/KaudayIDE?style=for-the-badge&logo=twitter&color=1da1f2)](https://twitter.com/KaudayIDE)
-[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/kauday?style=for-the-badge&logo=reddit&color=ff4500)](https://reddit.com/r/kauday)
-
-</div>
-
 ### 💬 Get Involved
 
 - 🐛 **Report Issues**: [GitHub Issues](https://github.com/Kauday-Code-Editor/kauday/issues)
@@ -144,21 +134,11 @@
 
 ---
 
-### 🏆 Achievement Badges
-
-<div align="center">
-
-![Metrics](https://metrics.lecoq.io/Kauday-Code-Editor?template=classic&config.timezone=UTC&config.padding=0)
-
-</div>
-
----
-
 ## 📄 License & Credits
 
 <div align="center">
 
-**Kauday** is released under the [MIT License](https://github.com/Kauday-Code-Editor/kauday/blob/main/LICENSE)
+**Kauday** is released under the Apache 2.0
 
 Made with ❤️ by the [Kauday Community](https://github.com/Kauday-Code-Editor)
 
@@ -174,6 +154,6 @@ Made with ❤️ by the [Kauday Community](https://github.com/Kauday-Code-Editor
 
 **Ready to experience the future of coding?**
 
-[🚀 **Download Kauday**](https://github.com/Kauday-Code-Editor/kauday/releases) | [📖 **Documentation**](https://docs.kauday.dev) | [💬 **Community**](https://discord.gg/kauday)
+[🚀 **Download Kauday**](https://github.com/Kauday-Code-Editor/Kauday/releases) | [📖 **Documentation**](https://github.com/Kauday-Code-Editor/Documentation)
 
 </div>
