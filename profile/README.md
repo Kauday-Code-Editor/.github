@@ -125,14 +125,6 @@
 
 ---
 
-## 📈 Repository Statistics
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kauday-Code-Editor&theme=github-compact&hide_border=true&custom_title=Organization%20Activity)
-
-</div>
-
 ### 📊 Contribution Insights
 
 <div align="center">
