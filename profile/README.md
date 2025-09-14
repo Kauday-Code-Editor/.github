@@ -144,14 +144,6 @@
 
 ---
 
-## 📊 Weekly Development Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauday-Code-Editor&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</div>
-
 ### 🏆 Achievement Badges
 
 <div align="center">
