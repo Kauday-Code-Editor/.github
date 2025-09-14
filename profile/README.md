@@ -125,18 +125,6 @@
 
 ---
 
-### 📊 Contribution Insights
-
-<div align="center">
-
-| Contributors | Commits | Issues & PRs |
-|:---:|:---:|:---:|
-| ![Contributors](https://contrib.rocks/image?repo=Kauday-Code-Editor/kauday) | ![Commits](https://img.shields.io/github/commit-activity/y/Kauday-Code-Editor/kauday?style=for-the-badge&logo=git&color=orange) | ![Combined](https://img.shields.io/github/issues-and-prs/Kauday-Code-Editor/kauday?style=for-the-badge&logo=github&color=purple) |
-
-</div>
-
----
-
 ## 🤝 Community & Support
 
 <div align="center">
