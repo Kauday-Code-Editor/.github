@@ -23,7 +23,7 @@
 |-------------|-----------|---------------|
 | ![Commit Activity](https://img.shields.io/github/commit-activity/m/Kauday-Code-Editor/kauday?style=flat-square&logo=git&color=green) | ![Repo Size](https://img.shields.io/github/repo-size/Kauday-Code-Editor/kauday?style=flat-square&logo=github&color=blue) | ![Watchers](https://img.shields.io/github/watchers/Kauday-Code-Editor/kauday?style=flat-square&logo=github&color=gold) |
 | ![Contributors](https://img.shields.io/github/contributors/Kauday-Code-Editor/kauday?style=flat-square&logo=github) | ![Language Count](https://img.shields.io/github/languages/count/Kauday-Code-Editor/kauday?style=flat-square&logo=github) | ![GitHub discussions](https://img.shields.io/github/discussions/Kauday-Code-Editor/kauday?style=flat-square&logo=github) |
-| ![Pulse](https://img.shields.io/github/search/Kauday-Code-Editor/kauday?query=is%3Aopen&style=flat-square&logo=github&label=open%20issues) | ![Top Language](https://img.shields.io/github/languages/top/Kauday-Code-Editor/kauday?style=flat-square&logo=rust&color=orange) | ![Downloads](https://img.shields.io/github/downloads/Kauday-Code-Editor/kauday/total?style=flat-square&logo=github&color=brightgreen) |
+|![Top Language](https://img.shields.io/github/languages/top/Kauday-Code-Editor/kauday?style=flat-square&logo=rust&color=orange) | ![Downloads](https://img.shields.io/github/downloads/Kauday-Code-Editor/kauday/total?style=flat-square&logo=github&color=brightgreen) |
 
 </div>
 
@@ -48,19 +48,6 @@
 - **High-Performance Buffer Management** for massive files
 - **Async & Multithreaded** - Zero UI blocking
 - **CRDT/OT System** for real-time collaboration
-
-### 📊 Real-Time Performance Metrics
-
-<div align="center">
-
-| Metric | Performance | Target |
-|--------|-------------|--------|
-| 🚀 **Startup Time** | ![Dynamic Badge](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/repos/Kauday-Code-Editor/kauday/releases/latest&query=$.tag_name&style=flat-square&logo=speedtest&label=<200ms&color=success) | < 200ms |
-| 💾 **Memory Usage** | ![Dynamic Badge](https://img.shields.io/badge/RAM-<100MB-green?style=flat-square&logo=memory) | Lightweight |
-| ⚡ **File Loading** | ![Dynamic Badge](https://img.shields.io/badge/Large%20Files->1GB-blue?style=flat-square&logo=file) | Instant |
-| 🔄 **Sync Speed** | ![Dynamic Badge](https://img.shields.io/badge/Collab-Real%20Time-purple?style=flat-square&logo=sync) | < 50ms |
-
-</div>
 
 ---
 
